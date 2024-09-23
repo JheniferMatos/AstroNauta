@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AstroNauta</string>
+    <string name="title_planets">Planetas</string>
+    <string name="title_gallery">Galeria</string>
+    <string name="title_facts">Curiosidades</string>
+
+    <string name="planet_info">Informações sobre %1$s:</string>
+
+    <string-array name="planets_array">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+
+
+
+    <string name="info_mercurio">Diâmetro: 4.880 km\nTamanho: Pequeno\nTemperatura média: 167 °C\nAtmosfera: Praticamente inexistente\nÓrbita: 88 dias terrestres\nGravidade: 3,7 m/s²\nSatélites naturais: Nenhum</string>
+    <string name="info_venus">Diâmetro: 12.104 km\nTamanho: Semelhante à Terra\nTemperatura média: 464 °C\nAtmosfera: Densa, composta principalmente de dióxido de carbono\nÓrbita: 225 dias terrestres\nGravidade: 8,87 m/s²\nSatélites naturais: Nenhum</string>
+    <string name="info_terra">Diâmetro: 12.742 km\nTamanho: Planeta Azul\nTemperatura média: 15 °C\nAtmosfera: Nitrogênio e oxigênio\nÓrbita: 365,25 dias terrestres\nGravidade: 9,81 m/s²\nSatélites naturais: 1 (Lua)</string>
+    <string name="info_marte">Diâmetro: 6.779 km\nTamanho: Planeta Vermelho\nTemperatura média: -63 °C\nAtmosfera: Fina, composta principalmente de dióxido de carbono\nÓrbita: 687 dias terrestres\nGravidade: 3,71 m/s²\nSatélites naturais: 2 (Fobos e Deimos)</string>
+    <string name="info_jupiter">Diâmetro: 139.820 km\nTamanho: Gigante Gasoso\nTemperatura média: -108 °C\nAtmosfera: Composta de hidrogênio e hélio\nÓrbita: 11,86 anos terrestres\nGravidade: 24,79 m/s²\nSatélites naturais: 79 (incluindo Ganimedes, o maior do sistema solar)</string>
+    <string name="info_saturno">Diâmetro: 116.460 km\nTamanho: Conhecido pelos Anéis\nTemperatura média: -139 °C\nAtmosfera: Composta de hidrogênio e hélio\nÓrbita: 29,5 anos terrestres\nGravidade: 10,44 m/s²\nSatélites naturais: 83 (incluindo Titã, o segundo maior do sistema solar)</string>
+    <string name="info_urano">Diâmetro: 50.724 km\nTamanho: Gigante Gélido\nTemperatura média: -224 °C\nAtmosfera: Composta de hidrogênio, hélio e metano\nÓrbita: 84 anos terrestres\nGravidade: 8,69 m/s²\nSatélites naturais: 27 (incluindo Miranda, Ariel, Umbriel, Titânia e Oberon)</string>
+    <string name="info_netuno">Diâmetro: 49.244 km\nTamanho: Planeta Azul Profundo\nTemperatura média: -214 °C\nAtmosfera: Composta de hidrogênio, hélio e metano\nÓrbita: 165 anos terrestres\nGravidade: 11,15 m/s²\nSatélites naturais: 14 (incluindo Tritão)</string>
+
+
+    <string name="fact_sun">O Sol é tão grande que cerca de 1,3 milhão de Terras caberiam dentro dele.</string>
+    <string name="fact_venus">Vênus gira no sentido horário, ao contrário da maioria dos outros planetas.</string>
+    <string name="fact_moon">A Lua da Terra é o quinto maior satélite natural do Sistema Solar.</string>
+    <string name="fact_saturn">Os anéis de Saturno são compostos principalmente por partículas de gelo e rocha.</string>
+    <string name="fact_mercury">Um dia em Mercúrio equivale a 58 dias e 15 horas da Terra.</string>
+    <string name="fact_jupiter">Leva cerca de 12 anos terrestres para Júpiter completar uma volta ao redor do Sol.</string>
+    <string name="fact_mars">A atmosfera de Marte é composta principalmente por dióxido de carbono (95%).</string>
+    <string name="fact_uranus">Urano é único porque gira de lado, com um eixo inclinado quase 98 graus.</string>
+    <string name="fact_neptune">Netuno tem os ventos mais rápidos do Sistema Solar, com velocidades de até 2.100 km/h.</string>
+    <string name="fact_dwarf_planet">Existem cinco planetas anões oficialmente reconhecidos no Sistema Solar: Ceres, Plutão, Haumea, Makemake e Éris.</string>
+    <string name="fact_mercury_fastest">Mercúrio é o planeta mais rápido do sistema solar, completando uma órbita ao redor do Sol em apenas 88 dias terrestres.</string>
+    <string name="fact_venus_hottest">Vênus é o planeta mais quente do sistema solar, com temperaturas superficiais que podem atingir 475 °C.</string>
+    <string name="fact_earth_water">Cerca de 71% da superfície da Terra é coberta por água.</string>
+    <string name="fact_mars_mountains">Marte abriga a montanha mais alta do sistema solar, Olympus Mons, que tem cerca de 22 km de altura.</string>
+    <string name="fact_jupiter_storm">A Grande Mancha Vermelha de Júpiter é uma tempestade gigante que existe há pelo menos 400 anos.</string>
+    <string name="fact_saturn_density">Saturno é tão leve que, se houvesse um oceano grande o suficiente, ele flutuaria na água.</string>
+    <string name="fact_uranus_moons">Urano tem 27 luas conhecidas, incluindo Miranda, Ariel, Umbriel, Titânia e Oberon.</string>
+    <string name="fact_neptune_blue">Netuno é conhecido como o "Planeta Azul" devido à sua cor azul intensa, causada pelo metano em sua atmosfera.</string>
+    <string name="fact_pluto_orbit">Plutão tem uma órbita altamente elíptica que às vezes o coloca mais perto do Sol do que Netuno.</string>
+    <string name="fact_haumea_shape">Haumea, um dos planetas anões, tem uma forma alongada devido à sua rápida rotação.</string>
+    <string name="fact_eris_size">Éris é o maior dos planetas anões e é até maior que Plutão.</string>
+    <string name="fact_kuiper_belt">O Cinturão de Kuiper é uma região do sistema solar além da órbita de Netuno, cheia de pequenos corpos gelados.</string>
+    <string name="fact_oort_cloud">A Nuvem de Oort é uma vasta região esférica de cometas que circunda o sistema solar a uma grande distância.</string>
+    <string name="fact_solar_wind">O vento solar é um fluxo de partículas carregadas liberadas pelo Sol que permeia todo o sistema solar.</string>
+    <string name="fact_venus_day">Um dia em Vênus (rotação) é mais longo que um ano em Vênus (translação).</string>
+    <string name="fact_mars_seasons">Marte tem estações como a Terra, mas elas duram cerca do dobro do tempo devido à sua órbita mais longa.</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_planets"
+        android:icon="@drawable/icon_planets"
+        android:title="@string/title_planets" />
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_gallery" />
+    <item
+        android:id="@+id/navigation_facts"
+        android:icon="@drawable/icon_question"
+        android:title="@string/title_facts" />
+</menu>

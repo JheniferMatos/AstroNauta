@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/click_color_nebulosa"
+                android:endColor="@color/popup_background_nebulosa"
+                android:angle="270" /> <!-- O ângulo pode ser ajustado -->
+        </shape>
+    </item>
+</layer-list>
